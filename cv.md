@@ -106,3 +106,53 @@ BX.Vue.component('bx-day',
                     </div>`
     }); 
 ```
+
+### Professional experience: ###
+Freelancer at Upwork.com
+2018 - Present
+[My profile for Upwork:] (https://www.upwork.com/freelancers/~01ac21aa36060eed06)
+
+- Yii
+- Yii2
+- CSS/HTML/Bootstrap
+- WordPress
+- Vue.js
+
+Freelancer at Freelancehunt.ru 
+2011 - Present
+My profile: https://freelancehunt.com/freelancer/Freelancer_Oleg.html 
+- Yii
+- Yii2
+- CSS/HTML/Bootstrap
+- WordPress
+
+Web Developer | Realty Promotion Group
+June 2014 — january 2015
+Saint Petersburg, realtypromotion.ru
+IT, System Integration, Internet
+- Bitrix
+- PSD to HTML;
+- WordPress;
+
+Web Developer | Flickshine
+August 2013 - June 2014
+I was junior specialist at the company and my tasks were:
+- PSD to HTML;
+- WordPress;
+- Yii.
+It was my first job as a Web Developer and I am really thankful for the experience I got there.  
+
+Design Engineer | Krankomplekt
+July 2010 - January 2013
+My tasks were:
+- Technical and Design Documentation Development;
+- Modeling in AutoCad and SolidWorks;
+- Staff Management  
+
+Design Engineer | Konecranes Ukraine
+January 2006 - January 2010
+My tasks were:
+- Technical and Design Documentation Development;
+- Modeling in AutoCad and SolidWorks.
+Other Experiences
+Design Engineer
