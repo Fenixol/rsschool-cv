@@ -168,4 +168,6 @@ Master's degree, Technical Engineering
 
 Russian - Native
 Ukrainian - Native
-English - Basic, ability to work with technical documentationsgi
+English - Basic, ability to work with technical documentations
+
+__________________________________________________________________
