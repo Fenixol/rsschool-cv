@@ -156,3 +156,16 @@ My tasks were:
 - Modeling in AutoCad and SolidWorks.
 Other Experiences
 Design Engineer
+
+### Education: ###
+
+1997 - 2001 Zaporozhye Hydroenergetic College ZNTU
+College degree, Mechanical Engineering
+
+2001-2005 Zaporizhzhya National Technical University
+Master's degree, Technical Engineering
+### Languages: ###
+
+Russian - Native
+Ukrainian - Native
+English - Basic, ability to work with technical documentationsgi
