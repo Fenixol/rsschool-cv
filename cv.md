@@ -16,6 +16,7 @@ E-mail: fenixoleg7@gmail.com
 * Yii2/ Yii1
 * Vue.js
 
+
 ### Code examples ###
 ```
 BX.Vue.component('bx-day',
@@ -170,4 +171,3 @@ Russian - Native
 Ukrainian - Native
 English - Basic, ability to work with technical documentations
 
-__________________________________________________________________
