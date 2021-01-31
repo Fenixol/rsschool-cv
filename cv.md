@@ -111,7 +111,7 @@ BX.Vue.component('bx-day',
 ### Professional experience: ###
 Freelancer at Upwork.com
 2018 - Present
-[My profile for Upwork:] (https://www.upwork.com/freelancers/~01ac21aa36060eed06)
+[My profile for Upwork:](https://www.upwork.com/freelancers/~01ac21aa36060eed06)
 
 - Yii
 - Yii2
@@ -121,7 +121,8 @@ Freelancer at Upwork.com
 
 Freelancer at Freelancehunt.ru 
 2011 - Present
-My profile: https://freelancehunt.com/freelancer/Freelancer_Oleg.html 
+[My profile:](https://freelancehunt.com/freelancer/Freelancer_Oleg.html)  
+
 - Yii
 - Yii2
 - CSS/HTML/Bootstrap
