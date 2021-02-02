@@ -1,9 +1,111 @@
-@import "_header";
+@import "_fonts";
+
+$padding-l : 45px;
+$font-H:    Poppins-SemiBold;
+$font-t:    Poppins-Regular;
+$content-color: #ebebeb;
+$aside-color1:  #343945;
+$aside-color2:  #343945;
+$aside-color-label:  #f2c100;
+
+html,
+body,
+ol {
+  margin:  0;
+  padding: 0;
+}
 
 body{
-    font-size:20px;
+    font-size:12px;
     background-color: beige;
-    div{
-        font-size: 10px;
-    }
+    font-style: normal;
+    font-family: $font-t;
 }
+.container {
+    width: 100%;
+  }
+  .main{
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+
+      aside{
+          max-width: 300px;
+          background-color: #343945;
+          color: #ffffff;
+          font-family: $font-t;
+          figure{
+              width: 100%;
+              margin: 0;
+              img{
+                  width: 100%;
+                  display: block;
+                  margin-bottom: 15px;
+              }
+          }
+          .contact{
+              background-color: $font-H;
+          }
+      }
+      .content{
+        width: 600px;
+        background-color: #ffffff;
+        .header-cv{
+            padding-left: $padding_l;
+            font-family: Poppins-SemiBold;
+            h1{
+                font-size: 60px;
+                margin-bottom: 0;
+            }
+            h2{
+                font-family: $font-t;
+                font-size: 26px;
+            }
+        }
+        .head{
+            h3{
+                background-color: #ebebeb;
+            }
+        }
+      }
+      
+      .head{
+          h3{
+            background-color: #424753;
+            font-family: $font-H;
+            font-size: 16px;
+            display: flex;
+            width: 100%;
+            &:before{
+                content: "";
+                width: 20px;
+                height: 26px;
+                background-color: $aside-color-label;
+                display: block;
+                margin-right: 25px;
+
+              }
+          }
+          display: flex;
+          
+      }
+      .content-body{
+          padding-left: $padding-l;
+          padding-right: $padding-l;
+      }
+
+      dt,
+      dd{
+        font-style: normal;
+        padding-left: 0px;
+        margin-left: 0;
+      }
+      dt{
+        font-size: 14px;
+      }
+      dd{
+        font-size: 12px; 
+      }
+      
+  }
+  

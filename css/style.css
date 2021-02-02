@@ -1,12 +1,130 @@
-header {
-  background-color: black;
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: url("../fonts/Poppins-SemiBold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: url("../fonts/Poppins-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+body,
+ol {
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  font-size: 20px;
+  font-size: 12px;
   background-color: beige;
+  font-style: normal;
+  font-family: Poppins-Regular;
 }
 
-body div {
-  font-size: 10px;
+.container {
+  width: 100%;
+}
+
+.main {
+  max-width: 960px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main aside {
+  max-width: 300px;
+  background-color: #343945;
+  color: #ffffff;
+  font-family: Poppins-Regular;
+}
+
+.main aside figure {
+  width: 100%;
+  margin: 0;
+}
+
+.main aside figure img {
+  width: 100%;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.main aside .contact {
+  background-color: Poppins-SemiBold;
+}
+
+.main .content {
+  width: 600px;
+  background-color: #ffffff;
+}
+
+.main .content .header-cv {
+  padding-left: 45px;
+  font-family: Poppins-SemiBold;
+}
+
+.main .content .header-cv h1 {
+  font-size: 60px;
+  margin-bottom: 0;
+}
+
+.main .content .header-cv h2 {
+  font-family: Poppins-Regular;
+  font-size: 26px;
+}
+
+.main .content .head h3 {
+  background-color: #ebebeb;
+}
+
+.main .head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.main .head h3 {
+  background-color: #424753;
+  font-family: Poppins-SemiBold;
+  font-size: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.main .head h3:before {
+  content: "";
+  width: 20px;
+  height: 26px;
+  background-color: #f2c100;
+  display: block;
+  margin-right: 25px;
+}
+
+.main .content-body {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.main dt,
+.main dd {
+  font-style: normal;
+  padding-left: 0px;
+  margin-left: 0;
+}
+
+.main dt {
+  font-size: 14px;
+}
+
+.main dd {
+  font-size: 12px;
 }
