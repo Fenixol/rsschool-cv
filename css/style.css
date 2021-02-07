@@ -56,10 +56,6 @@ body {
   margin-bottom: 15px;
 }
 
-.main aside .contact {
-  background-color: Poppins-SemiBold;
-}
-
 .main .content {
   width: 600px;
   background-color: #ffffff;
@@ -112,6 +108,11 @@ body {
 .main .content-body {
   padding-left: 45px;
   padding-right: 45px;
+}
+
+.main .step-block {
+  display: block;
+  border-bottom: 1px solid #ebebeb;
 }
 
 .main dt,

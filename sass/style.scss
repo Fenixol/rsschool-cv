@@ -43,9 +43,6 @@ body{
                   margin-bottom: 15px;
               }
           }
-          .contact{
-              background-color: $font-H;
-          }
       }
       .content{
         width: 600px;
@@ -93,6 +90,10 @@ body{
           padding-left: $padding-l;
           padding-right: $padding-l;
       }
+      .step-block{
+          display: block;
+          border-bottom: 1px solid #ebebeb;
+      }
 
       dt,
       dd{
@@ -106,6 +107,7 @@ body{
       dd{
         font-size: 12px; 
       }
+
       
   }
   
